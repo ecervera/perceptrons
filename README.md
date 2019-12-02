@@ -15,4 +15,4 @@ Run in a terminal:
     docker run -it --rm --volume="$(pwd):/home/jovyan/work:rw" \ 
       -p 8888:8888 perceptrons start.sh jupyter lab --NotebookApp.token=''
       
-Open this URL in your favourite browser: [http://localhost:8888/lab/tree/index.ipynb](http://localhost:8888/lab/tree/index.ipynb)
+Open this URL in your favourite browser: [http://localhost:8888/lab/tree/work/index.ipynb](http://localhost:8888/lab/tree/work/index.ipynb)
