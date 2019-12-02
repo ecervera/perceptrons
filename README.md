@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ecervera/perceptrons/master?filepath=index.ipynb)
 # perceptrons
 
 [Jupyter notebooks](https://jupyter.org/) with exercises of [linear perceptrons](https://en.wikipedia.org/wiki/Perceptron) with [Python](https://www.python.org/) and [scikit-learn](https://scikit-learn.org/).
